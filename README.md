@@ -1,11 +1,8 @@
-# MyAlgorithms
+# My-Algorithms
 
-This serves as an online repistory to some of my past code from various websites as well as personal pratice.
-Most of these are either solutions to problems from online sources such as HackerRank or personal challenges or
-tasks that I've done in my spare time. Most if not all are small and are not to be used in any manner outside of
-code review.
+This repository servers as an online codebase for any spare or random code I've written and uploaded during my spare time, they contain practice scripts, solutions to online challenges such as HackerRank or CodeGolf. Please note that the files in this repository are small and are not to be used in any professional manner, rather they are a relection of my coding style. 
 
-Keep in mind for a sample of completed, large and functional projects such as EraserBot or CSS Organizer,
+Keep in mind for my large, functional, and complete projects such as Eraser-Bot or CSS-Organizer,
 please refer to my other repristories.
 
 # My Larger Projects
@@ -13,14 +10,19 @@ please refer to my other repristories.
 Below is a list of my larger indepedent projects, these are large and complete projects that are are ready and/or
 in use currently.
 
-- CSSOrganizer (**Javascript**)
+- CSSOrganizer (**Python**)
   - [Link To CSS-Organizer on GitHub](https://github.com/JohnSongSoftware/CSS-Organizer "Link To CSS-Organizer on GitHub")
-  - Used to organize CSS files by various formats
+  - A customizable tool used for organizing CSS files based on a variety of coding conventions
 - EraserBot (**Python**)
   - [Link To Eraser Bot on GitHub](https://github.com/JohnSongSoftware/EraserBot "Link To Eraser Bot on GitHub")
   - A quick python bot made to be used as a moderator for the streaming platform [Twitch.tv](http://twitch.tv "Twitch")
-  
+
+# CFYP
+
+**Nothing right now.**
+
 # My Website
 
 Feel free to visit my website and leave a message at
+
 [My Website](https://johnsong.science "Science")

@@ -25,4 +25,4 @@ in use currently.
 
 Feel free to visit my website and leave a message at
 
-[My Website](https://johnsong.science "Science")
+[My Website](https://johnsong.me "Me")
